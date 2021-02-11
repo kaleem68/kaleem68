@@ -40,21 +40,22 @@ Here are some ideas to get you started:
 
 <br />
 <br />
----
+
 
  <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Kaleemullah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kaleem68&show_icons=true&hide_border=true" />
 
 
-
-
-<details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaleem68" />
+<img align="left" alt="Kaleems's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaleem68" />
 
-</details>
+<!---
+put summary and img tag inside details tag
+<details> </details>
+-->
+
 
 
 [medium]: https://medium.com/@nixamani5
