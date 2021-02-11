@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hello World, I'm Anna  👋
+
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
+## I'm a Developer, Creator, and Innovator!!
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working: Full Stack, Angular, Java
