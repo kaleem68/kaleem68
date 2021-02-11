@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with: System Design
 - 💬 Ask me about: Angular, Algorithms
 - 📫 How to reach me: Nixamani5@gmail.com
-- 😄 Pronouns: Kaleem
+- 😄 Nickname: Kaleem
 - ⚡ Thing To Remember: Leetcode is not a bad idea!
