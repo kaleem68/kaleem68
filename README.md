@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Thing To Remember: Leetcode is not a bad idea!
 
 
-### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Connect with me, I am kinda awesome:
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://www.linkedin.com/in/nixamani5/" />][linkedin]
 
 <br />
 
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
+  <img align="left" alt="Kaleemullah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kaleem68&show_icons=true&hide_border=true" />
 
 </details>
 
@@ -56,8 +56,6 @@ Here are some ideas to get you started:
 
 </details>
 
-[website]: https://holistic-developer.com/
-[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
-[instagram]: https://www.instagram.com/holistic_developer/
-[linkedin]: https://linkedin.com/in/annaarsentieva
-[portfolio]: https://arsentieva.github.io/profile/
+
+[medium]: https://medium.com/@nixamani5
+[linkedin]: https://linkedin.com/in/nixamani5
