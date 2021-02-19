@@ -3,7 +3,6 @@
 
 
 ## I'm a Developer, Creator, and Innovator!!
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working: Full Stack, Angular, Java
 - 🌱 I’m looking ahead with: Flutter 
