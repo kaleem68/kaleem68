@@ -4,14 +4,14 @@
 
 ## I'm a Developer, Creator, and Innovator!!
 
-- 🔭 I’m currently working: Full Stack, Angular, Java
-- 🌱 I’m looking ahead with: Flutter 
+- 🔭 I’m currently working: Full Stack Developer
+- 🌱 I’m looking ahead to make an impact  
 - 👯 I’m looking to collaborate on Open Source
 - 🤔 I’m looking for help with: System Design
-- 💬 Ask me about: Angular, Algorithms
+- 💬 Ask me about: Java, Algorithms
 - 📫 How to reach me: Nixamani5@gmail.com
 - 😄 Nickname: Kaleem
-- ⚡ Thing To Remember: Leetcode is not a bad idea!
+- ⚡ Thing To Remember: If there is no impact, leave it!
 
 
 ### Connect with me, I am kinda awesome:
