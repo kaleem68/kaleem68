@@ -4,7 +4,7 @@
 
 ## I'm a Developer, Creator, and Innovator!!
 
-- 🔭 I’m currently working as a Software Engineer for a U.K Based Company
+- 🔭 I’m currently working as a Software Engineer for a U.K based company
 - 🌱 I’m looking ahead to make an impact  
 - 👯 I’m looking to collaborate on Open Source
 - 🤔 I’m looking for help with: System Design
