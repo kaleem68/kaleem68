@@ -15,6 +15,7 @@
 
 ### Connect with me, I am kinda awesome:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="holisitc_developer | LinkedIn" width="30px" src="https://img.icons8.com/ios-glyphs/30/undefined/twitter--v1.png" />][twitter]
 
 <br />
 
@@ -58,5 +59,6 @@ put summary and img tag inside details tag
 
 
 
-[medium]: https://medium.com/@nixamani5
+[twitter]: https://twitter.com/kaleemniz
 [linkedin]: https://linkedin.com/in/nixamani5
+[medium]: https://medium.com/@nixamani5
