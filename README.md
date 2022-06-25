@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently working as a Software Engineer for a U.K based company
 - 👯 I’m looking to collaborate on Open Source
-- 🤔 I’m looking for help with: System Design
 - 💬 Ask me about: Java, Algorithms
 - 📫 How to reach me: Nixamani5@gmail.com
 - 😄 Nickname: Kaleem
