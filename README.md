@@ -8,7 +8,6 @@
 - 👯 I’m looking to collaborate on Open Source
 - 💬 Ask me about: Java, Algorithms
 - 📫 How to reach me: Nixamani5@gmail.com
-- 😄 Nickname: Kaleem
 - ⚡ Thing To Remember: If there is no impact, leave it!
 
 
