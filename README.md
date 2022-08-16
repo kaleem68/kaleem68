@@ -47,6 +47,7 @@ put summary and img tag inside details tag
 <details> </details>
 -->
 
+
 [twitter]: https://twitter.com/kaleemniz
 [linkedin]: https://linkedin.com/in/nixamani5
 [medium]: https://medium.com/@nixamani5
