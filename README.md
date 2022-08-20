@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as a Software Engineer for a U.K based company
 - 💬 Ask me about: Java, Algorithms
-- 📫 How to reach me: Nixamani5@gmail.com
+- 📫 Reach me: Nixamani5@gmail.com
 - ⚡ Thing To Remember: If there is no impact, leave it!
 
 ### Connect with me, I am kinda awesome:
