@@ -39,7 +39,6 @@ align="left" alt="Typescript" width="30px" src="https://raw.githubusercontent.co
 
   <img align="left" alt="Kaleemullah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kaleem68&show_icons=true&hide_border=true" />
 
-
   <summary>:zap: Most Used Languages</summary>
 
 <img align="left" alt="Kaleems's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaleem68" />
