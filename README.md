@@ -3,7 +3,6 @@
 
 ## I'm a Developer!
 
-
 - 🔭 I’m currently working as a Software Engineer for a U.K based company
 - 💬 Ask me about: Java, Algorithms
 - 📫 Reach me: Nixamani5@gmail.com
