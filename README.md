@@ -1,6 +1,7 @@
 ### Hi, I'm Kaleem  👋
  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif?raw=true" width="500" height="320" />
 
+
 ## I'm a Developer!
 
 - 🔭 I’m currently working as a Software Engineer for a U.K based company
@@ -46,6 +47,7 @@ align="left" alt="Typescript" width="30px" src="https://raw.githubusercontent.co
 put summary and img tag inside details tag
 <details> </details>
 -->
+
 
 
 [twitter]: https://twitter.com/kaleemniz
