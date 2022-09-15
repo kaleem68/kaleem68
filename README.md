@@ -13,7 +13,6 @@
 [<img align="left" alt="holisitc_developer | LinkedIn" width="30px" src="https://img.icons8.com/ios-glyphs/30/undefined/twitter--v1.png" />][twitter]
 
 <br />
-
 ### Languages and Tools:
 
  <summary>:zap: GitHub Stats</summary>
