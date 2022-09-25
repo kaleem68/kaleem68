@@ -3,7 +3,7 @@
 
 ## I'm a Developer!
 
-- 🔭 I’m working as a Software Engineer for a U.K based company
+- 🔭 I’m working as a Software Engineer
 - 💬 Ask me about: Java, Algorithms
 - 📫 Reach me: Nixamani5@gmail.com
 - ⚡ Remember: If there is no impact, leave it!
