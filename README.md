@@ -6,7 +6,6 @@
 - 🔭 I’m working as a Software Engineer
 - 💬 Ask me about: Java, Algorithms
 - 📫 Reach me: Nixamani5@gmail.com
-- ⚡ Remember: If there is no impact, leave it!
 
 ### Connect with me, I am kinda awesome:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
