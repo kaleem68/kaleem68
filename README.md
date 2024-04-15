@@ -3,8 +3,8 @@
 
 ## I'm a Developer!
 
-- 🔭 I’m working as a Software Engineer
-- 💬 Ask me about: Java, Algorithms
+- 🔭 I’m working as a Software Engineer.
+- 👋 Interested in Typescript and Backend development
 - 📫 Reach me: Nixamani5@gmail.com
 
 ### Connect with me, I am kinda awesome:
