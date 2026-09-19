@@ -1,5 +1,3 @@
-<img align="right" src="https://raw.githubusercontent.com/kaleem68/kaleem68/main/assets/kaleem.png" alt="Kaleemullah Nizamani" width="160" />
-
 # Hi, I’m Kaleem
 
 Software engineer based in Pakistan. Currently **Head of Platform Services at AIME**.
@@ -7,8 +5,6 @@ Software engineer based in Pakistan. Currently **Head of Platform Services at AI
 At AIME, I grew from Software Engineer to leading engineering, scaling teams, shaping technical direction and bringing products from idea to launch. My work spans backend systems, full stack applications and AI integration.
 
 [LinkedIn](https://www.linkedin.com/in/nixamani5/) · [DEV.to](https://dev.to/kaleemniz) · [Email](mailto:kaleemullah7@proton.me)
-
-<br clear="both" />
 
 ## Selected work
 
