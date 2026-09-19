@@ -1,36 +1,33 @@
-### Hi, I'm Kaleem  👋
- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif?raw=true" width="500" height="320" />
+<img align="right" src="https://raw.githubusercontent.com/kaleem68/kaleem68/main/assets/kaleem.png" alt="Kaleemullah Nizamani" width="160" />
 
-## I'm a Developer!
+# Hi, I’m Kaleem
 
-- 🔭 I’m working as a Software Engineer.
-- 👋 Interested in Typescript and Backend development
-- 📫 Reach me: Nixamani5@gmail.com
+Software engineer based in Pakistan. Currently **Head of Platform Services at AIME**.
 
-### Connect with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="holisitc_developer | LinkedIn" width="30px" src="https://img.icons8.com/ios-glyphs/30/undefined/twitter--v1.png" />][twitter]
+At AIME, I grew from Software Engineer to leading engineering, scaling teams, shaping technical direction and bringing products from idea to launch. My work spans backend systems, full stack applications and AI integration.
 
-<br />
+[LinkedIn](https://www.linkedin.com/in/nixamani5/) · [DEV.to](https://dev.to/kaleemniz) · [Email](mailto:kaleemullah7@proton.me)
 
+<br clear="both" />
 
-### Languages and Tools:
+## Selected work
 
- <summary>:zap: GitHub Stats</summary>
+- **AIME Platform:** Led a team building a real time visual workspace that evolved into an AI app builder. Developed backend APIs across six Node.js microservices, with Redis caching and MongoDB storage. I now set its long term direction, launch priorities and enterprise onboarding strategy.
+- **Early years education:** Developed the core product for a UK EdTech company serving parents and children under five. The company later raised **£450K in total funding**.
+- **Shopping and rentals:** Led development of an app for the UK market, building backend APIs and guiding frontend work. Launched it on the App Store and Google Play. It reached **over 1,000 registered users** and processed **several thousand pounds in transactions**.
 
-  <img align="left" alt="Kaleemullah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kaleem68&show_icons=true&hide_border=true" />
+## Skills
 
-  <summary>:zap: Most Used Languages</summary>
+- **Backend:** Node.js, TypeScript, JavaScript, Java, Spring Boot, Express, REST APIs, GraphQL, Hasura, microservices and system design.
+- **Data & infrastructure:** PostgreSQL, MongoDB, Redis, AWS, Docker, CI/CD and NGINX. AWS work includes EC2, S3, API Gateway, load balancing, Elastic Beanstalk, ECS and ECR.
+- **AI integration:** AI SDK, LLM integration, tool calling and response streaming with server-sent events.
+- **Engineering leadership:** Technical direction, hiring, team scaling, delegation, code reviews and product delivery.
 
-<img align="left" alt="Kaleems's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaleem68" />
+## Writing
 
-<!---
-put summary and img tag inside details tag
-<details> </details>
--->
+I write technical articles and am interested in making videos and helping developers get started by making technical ideas easier to understand.
 
-
-
-[twitter]: https://twitter.com/kaleemniz
-[linkedin]: https://linkedin.com/in/nixamani5
-[medium]: https://medium.com/@nixamani5
+- [Video streaming: challenges and improvements](https://dev.to/kaleemniz/understanding-the-challenges-of-video-streaming-and-ways-to-improve-it-2b35)
+- [A style guide for Git history](https://dev.to/playfulprogramming/style-guide-to-write-git-history-4fok)
+- [Performance benchmarking: String vs. StringBuilder](https://dev.to/playfulprogramming/performance-benchmarking-string-and-string-builder-3bid)
+- [When to use a HashMap instead of a loop](https://dev.to/kaleemniz/when-to-use-map-instead-of-loop-3cda)
