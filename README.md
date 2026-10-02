@@ -2,7 +2,7 @@
 
 Software engineer based in Pakistan. Currently **Head of Platform Services at AIME**.
 
-At AIME, I grew from Software Engineer to leading engineering, scaling teams, shaping technical direction and bringing products from idea to launch. My work spans backend systems, full stack applications and AI integration.
+At AIME, I grew from Software Engineer to leading engineering, scaling teams, shaping technical direction and bringing products from idea to launch. My work spans backend systems, full stack applications and AI Engineering.
 
 [LinkedIn](https://www.linkedin.com/in/nixamani5/) · [DEV.to](https://dev.to/kaleemniz) · [Email](mailto:kaleemullah7@proton.me)
 
@@ -16,7 +16,7 @@ At AIME, I grew from Software Engineer to leading engineering, scaling teams, sh
 
 - **Backend:** Node.js, TypeScript, JavaScript, Java, Spring Boot, Express, REST APIs, GraphQL, Hasura, microservices and system design.
 - **Data & infrastructure:** PostgreSQL, MongoDB, Redis, AWS, Docker, CI/CD and NGINX. AWS work includes EC2, S3, API Gateway, load balancing, Elastic Beanstalk, ECS and ECR.
-- **AI integration:** AI SDK, LLM integration, tool calling and response streaming with server-sent events.
+- **AI Engineering:** AI SDK, LLM integration, tool calling and response streaming with server-sent events.
 - **Engineering leadership:** Technical direction, hiring, team scaling, delegation, code reviews and product delivery.
 
 ## Writing
