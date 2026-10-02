@@ -16,7 +16,7 @@ At AIME, I grew from Software Engineer to leading engineering, scaling teams, sh
 
 - **Backend:** Node.js, TypeScript, JavaScript, Java, Spring Boot, Express, REST APIs, GraphQL, Hasura, microservices and system design.
 - **Data & infrastructure:** PostgreSQL, MongoDB, Redis, AWS, Docker, CI/CD and NGINX. AWS work includes EC2, S3, API Gateway, load balancing, Elastic Beanstalk, ECS and ECR.
-- **AI Engineering:** AI SDK, LLM integration, tool calling and response streaming with server-sent events.
+- **AI Engineering:** AI Agents, MCP, RAG, Embeddings, pgvector, Semantic Search, Vercel AI SDK, SSE Streaming, Context Engineering, Tool Calling, Structured Outputs, Agent Memory.
 - **Engineering leadership:** Technical direction, hiring, team scaling, delegation, code reviews and product delivery.
 
 ## Writing
